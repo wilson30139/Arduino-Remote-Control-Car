@@ -1,4 +1,4 @@
-# 遙控汽車
-- 模式1: 透過手機來操控遙控汽車
-- 模式2: 透過物品偵測來操控遙控汽車
-- [影片連結](https://drive.google.com/drive/folders/17juq34dGjKwcXpV577voMhIx-Eg7P8me?usp=sharing)
+# Remote Control Car
+- Mode 1: Control the remote control car via a smartphone
+- Mode 2: Control the remote control car using object direction
+- [Demo](https://drive.google.com/drive/folders/17juq34dGjKwcXpV577voMhIx-Eg7P8me?usp=sharing)
