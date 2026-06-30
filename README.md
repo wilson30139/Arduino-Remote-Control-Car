@@ -74,3 +74,32 @@ The LCD display below the RFID reader indicates the vehicle's current operating 
 - Embedded Systems
 
 ## Hardware Components
+
+### Controller
+- Arduino Uno × 1
+
+### Communication
+- HC-05 Bluetooth Module × 1
+- MFRC522 RFID Module × 1
+
+### Sensors
+- Ultrasonic Sensors × 3
+
+### Display
+- LCD Display × 1
+- LEDs × 2
+
+### Motion
+- DC Motors × 4
+- Motor Driver Expansion Board × 1
+
+### Accessories
+- Breadboard × 1
+- Mini Breadboards × 4
+- 330 Ω Resistors × 2
+- USB Cable × 1
+- Portable Power Bank × 1
+
+### External Devices
+- Laptop × 1
+- Smartphone × 1
