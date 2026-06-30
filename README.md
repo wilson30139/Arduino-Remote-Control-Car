@@ -4,6 +4,8 @@ This repository contains an Arduino-based remote control car developed using Ard
 
 The project showcases embedded system development, Bluetooth communication, mobile device integration, and real-time vehicle control through Arduino programming.
 
+Source Code: https://github.com/wilson30139/Arduino-Remote-Control-Car/blob/main/12.8.ino
+
 ## Feature
 ### Smartphone Control Mode
 - Control the vehicle through a Bluetooth-connected smartphone.
