@@ -65,5 +65,12 @@ Figure 4 shows the mode-switching mechanism of the remote control car. The blue 
 The LCD display below the RFID reader indicates the vehicle's current operating mode. The Bluetooth module on the left is responsible for wireless communication with the smartphone. The LED indicators on both sides display the vehicle's movement direction, including left turn, right turn, and forward movement.
 
 ## Technologies
+- Arduino
+- C++
+- Arduino IDE
+- Bluetooth Communication
+- RFID
+- Ultrasonic Sensing
+- Embedded Systems
 
-## Project Structure
+## Hardware Components
