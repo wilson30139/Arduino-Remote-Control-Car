@@ -22,13 +22,13 @@ The project showcases embedded system development, Bluetooth communication, mobi
 
 ## Demo
 ### Smartphone Control Mode
-Video: https://drive.google.com/file/d/1Ixgjq7noOMGMLLOR5go2chjAUQ6HfZK0/view?usp=sharing
+- Video: https://drive.google.com/file/d/1Ixgjq7noOMGMLLOR5go2chjAUQ6HfZK0/view?usp=sharing
 
 ### Object Detection Mode
-Video: https://drive.google.com/file/d/1O02ncYHhMH47T7JDWd0g-15L1aCM132o/view?usp=sharing
+- Video: https://drive.google.com/file/d/1O02ncYHhMH47T7JDWd0g-15L1aCM132o/view?usp=sharing
 
 ### Mode Switching
-Video: https://drive.google.com/file/d/1xS2wzoL0zJpnxVsiR2OIY92YpohqmJAO/view?usp=sharing
+- Video: https://drive.google.com/file/d/1xS2wzoL0zJpnxVsiR2OIY92YpohqmJAO/view?usp=sharing
 
 ## Screenshot
 
